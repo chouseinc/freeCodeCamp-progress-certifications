@@ -14,7 +14,7 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 
 ### Responsive Web Design
 - [x] Basic HTML and HTML5
-- [ ] Basic CSS
+- [x] Basic CSS
 - [ ] Applied Visual Design
 - [ ] Applied Accessibility
 - [ ] Responsive Web Design Principles
