@@ -16,7 +16,7 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [x] [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
 - [x] [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
 - [x] [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
-- [ ] [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
+- [x] [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
 - [ ] [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-principles)
 - [ ] [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
 - [ ] [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid)
