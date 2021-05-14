@@ -13,14 +13,14 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 ## Courses
 
 ### Responsive Web Design
-- [x] Basic HTML and HTML5
-- [x] Basic CSS
-- [ ] Applied Visual Design
-- [ ] Applied Accessibility
-- [ ] Responsive Web Design Principles
-- [ ] CSS Flexbox
-- [ ] CSS Grid
-- [ ] Responsive Web Design Projects
+- [x] [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+- [x] [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css)
+- [x] [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design)
+- [ ] [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
+- [ ] [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-principles)
+- [ ] [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
+- [ ] [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid)
+- [ ] [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
 
 ### JavaScript Algorithms and Data Structures
 - [ ] Basic JavaScript
