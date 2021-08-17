@@ -23,12 +23,12 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [ ] [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
 
 ### JavaScript Algorithms and Data Structures
-- [ ] Basic JavaScript
-- [ ] ES6
-- [ ] Regular Expressions
-- [ ] Debugging
-- [ ] Basic Data Structures
-- [ ] Basic Algorithm Scripting
+- [x] Basic JavaScript
+- [x] ES6
+- [x] Regular Expressions
+- [x] Debugging
+- [x] Basic Data Structures
+- [x] Basic Algorithm Scripting
 - [ ] Object Oriented Programming
 - [ ] Functional Programming
 - [ ] Intermediate Algorithm Scripting
