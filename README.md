@@ -23,16 +23,16 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [ ] [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
 
 ### JavaScript Algorithms and Data Structures
-- [x] Basic JavaScript
-- [x] ES6
-- [x] Regular Expressions
-- [x] Debugging
-- [x] Basic Data Structures
-- [x] Basic Algorithm Scripting
-- [ ] Object Oriented Programming
-- [ ] Functional Programming
-- [ ] Intermediate Algorithm Scripting
-- [ ] JavaScript Algorithms and Data Structures Projects
+- [x] [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- [x] [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+- [x] [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+- [x] [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+- [x] [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+- [x] [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+- [ ] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+- [ ] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [ ] [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+- [ ] [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
 ### Front End Development Libraries
 - [ ] Bootstrap
