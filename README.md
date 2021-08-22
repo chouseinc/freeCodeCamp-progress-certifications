@@ -29,8 +29,8 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [x] [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
 - [x] [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 - [x] [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
-- [ ] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
-- [ ] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [x] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+- [x] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 - [ ] [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 - [ ] [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
