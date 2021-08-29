@@ -32,7 +32,7 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [x] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
 - [x] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 - [x] [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
-- [ ] [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
+- [x] [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
 ### Front End Development Libraries
 - [ ] Bootstrap
@@ -59,9 +59,10 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [x] [Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
 - [x] [Caesars Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 - [x] [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
-- [ ] [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+- [x] [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
-#### **Certification:**
+#### **Certification: [JavaScript Algorithms and Data Structures
+Developer Certification](https://www.freecodecamp.org/certification/chousein/javascript-algorithms-and-data-structures)**
 
 ### Front End Development Libraries Certification (300 hours)
 - [ ] Build a Random Quote Machine
