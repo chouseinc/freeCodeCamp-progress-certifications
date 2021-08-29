@@ -61,8 +61,7 @@ My progress at [freeCodeCamp.org](https://www.freecodecamp.org) courses and cert
 - [x] [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 - [x] [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
-#### **Certification: [JavaScript Algorithms and Data Structures
-Developer Certification](https://www.freecodecamp.org/certification/chousein/javascript-algorithms-and-data-structures)**
+#### **Certification: [JavaScript Algorithms and Data Structures Developer Certification](https://www.freecodecamp.org/certification/chousein/javascript-algorithms-and-data-structures)**
 
 ### Front End Development Libraries Certification (300 hours)
 - [ ] Build a Random Quote Machine
